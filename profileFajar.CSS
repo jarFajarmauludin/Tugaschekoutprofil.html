@@ -1,0 +1,44 @@
+.kotak{
+    display: inline; 
+    float : left; 
+    margin-left :50px; 
+    margin-top:20px;
+}
+
+.profile{
+    display: inline; 
+    float:left; 
+    margin-left:20px; 
+    font-size : 17px;
+}
+
+.categori{
+    display: inline; 
+    float:right; 
+    margin-right:50px; 
+    font-size: 17px; 
+    text-align:right;
+}
+
+.articel{
+    float: left; 
+    margin-left:50px;
+}
+
+.isi{
+    font-size: 17px;
+}
+
+.youtube{
+    float: left; 
+    margin-left:50px;
+}
+
+.wikipedia{
+    margin-right: 3%;
+}
+
+.fieldset{
+    float: right; 
+    margin-right:10px;
+}
